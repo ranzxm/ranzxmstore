@@ -5,3 +5,5 @@ bagian playlist CSS Grid 8/8
 
 kalau dibilang isi konten sama dengan yang ada pada youtube Web Programming UNPAS
 hanya nama brand dan beberapa gambar yang berbeda.
+
+cek websitenya > https://www.ranzxm.github.io/ranzxmstore
